@@ -5,3 +5,11 @@ It's about believing that the effort to learn something will make you good in it
 - reading is always the solution to know better.
 - don't look where the people stand and focus on where stand.
 - don't wait for the miracle to happen.
+
+#### about me
+
+*My name is **Tala Emad**, 22 years old. Graduated from Zarqa university with a major in computer science has an average 86.9 rating excellent in Feb 2020. Recently finished National ICT Up-Skilling Program from HTU in a cybersecurity track.*
+***I love the blue color that's why this emoji is my favorite!***  :124632832:
+
+
+[My GitHub account!](https://github.com/talaemad)
