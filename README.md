@@ -3,7 +3,7 @@ It's about believing that the effort to learn something will make you good in it
 
 ### Three  reminders to myself:
 - reading is always the solution to know better.
-- don't look where the people stand and focus on where stand.
+- don't look where the people stand and focus on where you stand.
 - don't wait for the miracle to happen.
 
 #### about me
