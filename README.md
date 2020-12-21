@@ -21,6 +21,6 @@ It's about believing that the effort to learn something will make you good in it
 
 The reading name | The link
 -----------------|----------- 
-Markout-Read | [click me!](https://talaemad.github.io/reading-notes/Markout.html)
+Markout-Read | [click me!](https://talaemad.github.io/reading-notes/Markdown.html)
 Revisions and the Cloud | [click me!](https://talaemad.github.io/reading-notes/Revisions%20and%20the%20Cloud.html)
 The Coder's Computer | [click me!](https://talaemad.github.io/reading-notes/The%20Coder's%20Computer.html)
