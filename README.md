@@ -9,6 +9,7 @@ It's about believing that the effort to learn something will make you good in it
 #### about me
 
 *My name is **Tala Emad**, 22 years old. Graduated from Zarqa university with a major in computer science has an average 86.9 rating excellent in Feb 2020. Recently finished National ICT Up-Skilling Program from HTU in a cybersecurity track.*
+
 ***I love the blue color that's why this emoji is my favorite!***  :blue_heart:
 
 
