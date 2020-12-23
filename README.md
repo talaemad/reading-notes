@@ -10,8 +10,8 @@
 
 The reading name | The link
 -----------------|----------- 
-Read1 | [click me!](https://talaemad.github.io/reading-notes/Read1.md)
-Read2| [click me!](https://talaemad.github.io/reading-notes/Read2.md)
-Read3 | [click me!](https://talaemad.github.io/reading-notes/Read3.md)
-Growth | [click me!](https://talaemad.github.io/reading-notes/Growth.md)
-Read4 | [click me!](https://talaemad.github.io/reading-notes/Read4.md)
+Read1 | [click me!](https://talaemad.github.io/reading-notes/Read1)
+Read2| [click me!](https://talaemad.github.io/reading-notes/Read2)
+Read3 | [click me!](https://talaemad.github.io/reading-notes/Read3)
+Growth | [click me!](https://talaemad.github.io/reading-notes/Growth)
+Read4 | [click me!](https://talaemad.github.io/reading-notes/Read4)
