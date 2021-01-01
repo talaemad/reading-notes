@@ -1,6 +1,6 @@
 #### about me
 
-*My name is **Tala Emad**, Graduated with a rating an Excellent in Computer Science From Zarqa Uni.  Recently finished National ICT Up-Skilling Program from HTU in a cybersecurity track. I am a hard worker, a quick learner, and eager to learn and improve myself. *
+*My name is **Tala Emad**, Graduated with a rating an Excellent in Computer Science From Zarqa Uni.  Recently finished National ICT Up-Skilling Program from HTU in a cybersecurity track. I am a hard worker, a quick learner, and eager to learn and improve myself.*
 
 ***I love the blue color that's why this emoji is my favorite!***  :blue_heart:
 
