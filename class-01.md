@@ -27,5 +27,5 @@
 
 * There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.). For that if you want these characters to appear on your page you need to use what are termed "escape" characters.
 
-![escape-characters](https://github.com/talaemad/reading-notes/blob/main/chr.jpg?raw=true)
+![escape-characters](https://github.com/talaemad/reading-notes/blob/main/chr.png)
 
