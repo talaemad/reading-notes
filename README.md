@@ -13,7 +13,7 @@
 **Read1** | [click me!](https://talaemad.github.io/reading-notes/Read1)
 **Read2**| [click me!](https://talaemad.github.io/reading-notes/Read2)
 **Read3** | [click me!](https://talaemad.github.io/reading-notes/Read3)
-**Growt**h | [click me!](https://talaemad.github.io/reading-notes/Growth)
+**Growth** | [click me!](https://talaemad.github.io/reading-notes/Growth)
 **Read4** | [click me!](https://talaemad.github.io/reading-notes/Read4)
 **Read5** | [click me!](https://talaemad.github.io/reading-notes/Read5)
 **Read06a**| [click me!](https://talaemad.github.io/reading-notes/Read06a)
@@ -25,7 +25,7 @@
 
 **_The reading name_** | **_The link_**
 -----------------|-----------
-**Read1**| [click me!](https://talaemad.github.io/reading-notes/)
+**class-01**| [click me!](https://talaemad.github.io/reading-notes/class-01)
 **Read2**| [click me!](https://talaemad.github.io/reading-notes/)
 **Read3**| [click me!](https://talaemad.github.io/reading-notes/)
 **Read4**| [click me!](https://talaemad.github.io/reading-notes/)
