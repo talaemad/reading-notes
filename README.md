@@ -26,7 +26,7 @@
 **_The reading name_** | **_The link_**
 -----------------|-----------
 **class-01**| [click me!](https://talaemad.github.io/reading-notes/class-01)
-**class-02.md**| [click me!](https://talaemad.github.io/reading-notes/class-02.md)
+**class-02**| [click me!](https://talaemad.github.io/reading-notes/class-02)
 **Read3**| [click me!](https://talaemad.github.io/reading-notes/)
 **Read4**| [click me!](https://talaemad.github.io/reading-notes/)
 **Read5**| [click me!](https://talaemad.github.io/reading-notes/)
