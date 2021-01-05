@@ -85,14 +85,13 @@ layouts. (Floated items require a defined width.)
 * CREATING THE VARIABLES IN CODE: Each variable that you declare takes up memory. The more va ri ables a browser has to remember, the more memory your script requires to run. Scripts that require a lot of memory can perform slower, which in turn makes your web page take longer to respond to the user.
 * NAMING COLLISIONS: You might think you would avoid naming collisions; after all you know which va riables you are using. But many sites use scripts written by several people. If an HTML page uses two JavaScript files, and both have a global variable with the same name, it can cause errors. Imagine a page using these two scripts.
 
+## 6 Reasons for Pair Programming
 
 * pair programming is the practice of two developers sharing a single workstation to interactively tackle a coding task together. At Code Fellows, pair programming is one way we foster a collaborative environment while developing key industry skills.
 
 * pair programming commonly involves two roles: the Driver and the Navigator. The driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the coding. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
 
 * Pair programming touches four skills: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
-
-## 6 Reasons for Pair Programming
 
 1. Greater efficiency
 when two people focus on the same code base, it is easier to catchmistakes in the making. Research indicates that pair programmingtakes slightly longer, but produces higher-quality code that doesn’trequire later effort in troubleshooting and debugging.
