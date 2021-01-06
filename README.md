@@ -29,7 +29,7 @@
 **class-02**| [click me!](https://talaemad.github.io/reading-notes/class-02)
 **class-03**| [click me!](https://talaemad.github.io/reading-notes/class-03)
 **class-04**| [click me!](https://talaemad.github.io/reading-notes/class-04)
-**Read5**| [click me!](https://talaemad.github.io/reading-notes/)
+**class-05**| [click me!](https://talaemad.github.io/reading-notes/class-05)
 **Read6**| [click me!](https://talaemad.github.io/reading-notes/)
 **Read7**| [click me!](https://talaemad.github.io/reading-notes/)
 **Read8**| [click me!](https://talaemad.github.io/reading-notes/)
