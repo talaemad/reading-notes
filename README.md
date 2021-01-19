@@ -38,5 +38,5 @@
 **class-11** | [click me!](https://talaemad.github.io/reading-notes/class-11)
 **class-12** | [click me!](https://talaemad.github.io/reading-notes/class-12)
 **class-13** | [click me!](https://talaemad.github.io/reading-notes/class-13)
-**Read14** | [click me!](https://talaemad.github.io/reading-notes/)
-**Read15** | [click me!](https://talaemad.github.io/reading-notes/)
+**class-14a** | [click me!](https://talaemad.github.io/reading-notes/class-14a)
+**class-14b** | [click me!](https://talaemad.github.io/reading-notes/class-14b)
